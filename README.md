@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20Aternos24-7-HostingBot%20%F0%9F%9A%80;%3E%20Built%20using%20JavaScript%20%7C%20Optimized%20%26%20Secure;%3E%20A%20bot%20that%20can%20keep%20uptime%20within%20a%20Ater...)](https://github.com/VarshuAi/Aternos24-7-HostingBot)
+<a href="https://github.com/VarshuAi/Aternos24-7-HostingBot"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20Aternos24-7-HostingBot%20%F0%9F%9A%80;%3E%20Built%20using%20JavaScript%20%7C%20Optimized%20%26%20Secure;%3E%20A%20bot%20that%20can%20keep%20uptime%20within%20a%20Ater..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/JavaScript-Tech-00CC66?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/JavaScript-Tech-00CC66?style=for-the-badge&logo=javascript&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002211,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -46,7 +46,7 @@ primary_tech: JavaScript
 
 <div align="center">
 <br>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=Aternos24-7-HostingBot&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66)](https://github.com/VarshuAi/Aternos24-7-HostingBot)
+<a href="https://github.com/VarshuAi/Aternos24-7-HostingBot"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=Aternos24-7-HostingBot&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66" alt="Activity Graph"/></a>
 <br>
 </div>
 
@@ -57,13 +57,9 @@ primary_tech: JavaScript
 <samp>&nbsp;FEATURES</samp>
 </h2>
 
-*    **Auto-Connect**: Automatically joins your server.
-*    **Infinite Uptime**: Prevents AFK kicks and server shutdowns.
-*    **Smart Reconnect**: Automatically reconnects if the internet drops or server restarts.
-*    **Render-Ready**: Includes "Self-Ping" to run 24/7 for FREE on Render.com.
-*    **Plugin Support**: Compatible with Paper/Spigot/Bukkit (auto-auth included).
-
----
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
 
 <!-- ============================== COMMANDS ============================== -->
 
@@ -72,11 +68,11 @@ primary_tech: JavaScript
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-*   **Start**: Just turn on your Aternos server. The bot will join automatically.
-*   **Status**: Visit the Render URL to see a status dashboard.
-*   **Chat**: The bot logs chat to the console.
-
----
+```bash
+# Clone the repository structure
+git clone https://github.com/VarshuAi/Aternos24-7-HostingBot.git
+cd Aternos24-7-HostingBot
+```
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -100,11 +96,14 @@ primary_tech: JavaScript
 <samp>&nbsp;SETUP</samp>
 </h2>
 
-We have made setup super easy! Check out the guide below:
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/Aternos24-7-HostingBot.git
+cd Aternos24-7-HostingBot
 
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
-
----
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (JavaScript)
+```
 
 <!-- ============================== STRUCTURE ============================== -->
 
@@ -130,12 +129,12 @@ Aternos24-7-HostingBot/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/Aternos24-7-HostingBot-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/Aternos24-7-HostingBot)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/Aternos24-7-HostingBot"><img src="https://img.shields.io/badge/Aternos24-7-HostingBot-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
