@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A bot that can keep uptime within a Aternos server using a mineflayer bot system. Convenient for hosting SMP's or Small Multiplayer Servers
+  name: Aternos24-7-HostingBot version: 1.0 type: Repository author: VarshuAi description: >   A bot that can keep uptime within a Aternos server using a mineflayer bot system. Convenient for hosting SMP's or Small Multiplayer Servers primary_tech: JavaScript
 primary_tech: JavaScript
 ```
 
